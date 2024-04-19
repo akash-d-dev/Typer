@@ -5,4 +5,4 @@ Features:
 - Play/Pause Typing
 - Emergency Stop
 
-Note: Do not share this with your friends; it won't work 😆."
+Note: Do not share this with your friends; it won't work 😆.
